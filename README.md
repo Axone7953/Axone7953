@@ -1,1 +1,1 @@
-![Coming Soon](https://pcsupport.lenovo.com/esv4/images/loading.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
+<img src="https://pcsupport.lenovo.com/esv4/images/loading.gif" height="40" align="left" >
